@@ -7,6 +7,7 @@ body.compact { padding-bottom: 118px; }
 .brand { float: left; font-weight: 900; font-size: 26px; letter-spacing: 0; color: #20240f; }
 .brand .pu { color: #7b3fe4; }
 .badge { float: right; font-size: 12px; background: #20240f; color: #fff; padding: 3px 8px; border-radius: 10px; margin-top: 4px; }
+.share-btn { float: right; background: #fff; border: 1.5px solid #555; padding: 3px 7px; border-radius: 10px; margin: 4px 8px 0 0; cursor: pointer; line-height: 0; }
 .main { padding-top: 16px; }
 .hero { background: #fff; border: 2px solid #20240f; border-radius: 12px; padding: 16px; margin-bottom: 20px; }
 .hero-label { color: #7b3fe4; font-size: 13px; font-weight: bold; margin: 0 0 6px; }
